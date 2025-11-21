@@ -81,7 +81,7 @@ export default function App() {
             <div className="container content">
                 <div className="title-base">
                     <hr />
-                    <h2>Industries</h2>
+                    <h2>Industries!!!</h2>
                     <p>We leverage a passion for technology to solve complex, real-world problems with a portfolio showcases expertise across diverse and critical sectors, including healthcare, national defense, education, and hospitality. We specialize in developing robust, scalable, and secure applications that enhance operational efficiency and improve user experience.</p>
                 </div>
                 <div className="tab-box" data-tab-anima="fade-bottom">
